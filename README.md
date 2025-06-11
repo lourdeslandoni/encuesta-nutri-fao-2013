@@ -1,5 +1,5 @@
 
-![logo repo](https://github.com/user-attachments/assets/0fc9e01d-70d0-48aa-8122-74ffb40dff9b)
+![logo repo](https://github.com/user-attachments/assets/489da6ae-7108-4b98-ab22-9fb003e04fd9)
 
 Proyecto Final Curso de Data Analytics - Coderhouse (2023)
 
