@@ -1,1 +1,6 @@
-Visualización de resultados del “Primer Estudio sobre el Estado Nutricional y los Hábitos Alimentarios de la Población Adulta de Rosario”, llevado a cabo en Argentina en el año 2013, siguiendo los lineamientos de FAO.
+
+Proyecto Final Curso de Data Analytics - Coderhouse (2023)
+
+Como proyecto final, presenté una visualización de resultados del “Primer Estudio sobre el Estado Nutricional y los Hábitos Alimentarios de la Población Adulta de Rosario”, llevado a cabo en Argentina en el año 2013, siguiendo los lineamientos de FAO.
+
+Para ello, confeccioné un tablero usando la herramienta Power BI.
