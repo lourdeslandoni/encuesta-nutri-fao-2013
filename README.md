@@ -28,3 +28,13 @@ The dashboard includes multiple tabs:
 - **Summary of macronutrient intake** against recommended daily values
 
 It also features filters by **gender**, **age group**, and **meal occasion** (breakfast, lunch, snack, dinner), enabling targeted exploration of the data.
+__________________________________________________________________________________________________________________________________________
+# Dashboard highlights
+![captura 1](https://github.com/user-attachments/assets/f3166744-6261-427d-919f-e702980099c6)
+
+![captura 2](https://github.com/user-attachments/assets/81c77439-de2e-4699-bd44-db398657bff7)
+
+![captura 3](https://github.com/user-attachments/assets/a68a58f2-86f6-434d-b730-d78b79676382)
+
+
+
