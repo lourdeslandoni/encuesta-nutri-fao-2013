@@ -5,7 +5,7 @@
 
 Este tablero interactivo en Power BI presenta los resultados del “Primer Estudio sobre el Estado Nutricional y los Hábitos Alimentarios de la Población Adulta de Rosario”, realizado en Argentina en el año 2013, siguiendo los lineamientos de FAO. En el estudio se encuestaron 2.400 personas adultas de diferentes rangos etarios, quienes registraron todo lo consumido el día anterior.
 
-El tablero incluye distintas solapas que permiten visualizar:
+Además, incluye distintas solapas que permiten visualizar:
 - Información **demográfica** de los encuestados
 - **Categorías de alimentos más consumidas**
 - **Ingesta de nutrientes críticos** (azúcares, sodio)
