@@ -13,7 +13,7 @@ También cuenta con filtros por **género**, **grupo etario** y **ocasión de co
 __________________________________________________________________________________________________________________________________________
 (EN)
 
-## 📊🧾 Overview
+## 🧾 Overview
 
 This interactive Power BI dashboard presents results from the "First Study on the Nutritional Status and Eating Habits of the Adult Population in Rosario," conducted in Argentina in 2013 following FAO guidelines. The study surveyed 2,400 adults of various age groups, who reported everything they consumed the previous day.
 
